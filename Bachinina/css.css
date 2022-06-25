@@ -1,0 +1,20 @@
+body{
+    margin: 0 auto;
+    color: #8a9fa9;
+    font: 10px/14px Arial,sans-serif;
+    background: #00A4E5;
+}
+.list{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+}
+.items{
+    padding: 10px;
+}
+.link{
+    background: #000;
+    color: white;
+    text-decoration: underline white;
+}
