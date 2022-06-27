@@ -1,0 +1,54 @@
+body{
+    font: 16px/22px Arial, sans-serif;
+    margin: 20px;
+}
+
+.logo{
+    width: 124px;
+    length: 142px;
+}
+
+.content{
+    text-align: center;
+    width: 1360px;
+
+}
+
+.heading3{
+    display: inline;
+    padding: 15px;
+    color: orangered;
+    font-weight: bold;
+}
+
+.heading1{
+    text-align: left;
+    font-size: 40px;
+    line-height: 44px;
+}
+
+.block{
+    font-size: 0;
+}
+
+.heading1-text,
+.heading2,
+.heading2-text{
+    text-align: left;
+}
+
+.img-text{
+    display: inline-block;
+    width: 400px;
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid orange;
+    font: 16px/22px Arial, sans-serif;
+}
+
+.heading2{
+    font-size: 20px;
+    line-height: 24px;
+}
+
+
